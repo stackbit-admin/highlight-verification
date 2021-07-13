@@ -10,7 +10,7 @@ sections:
       - label: Learn
         url: /features
         style: primary
-      - label: lorem-ipsum
+      - label: lorem
         url: '#'
         style: link
         new_window: false
