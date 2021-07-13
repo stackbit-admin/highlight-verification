@@ -105,6 +105,12 @@ sections:
         image_position: left
         actions: []
         type: feature
+  - title: lorem-ipsum
+    subtitle: lorem-ipsum
+    actions: []
+    has_background: false
+    background_color: white
+    type: cta_section
   - type: blog_feed_section
     title: What's New
     show_recent: true
